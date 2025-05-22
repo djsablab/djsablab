@@ -5,30 +5,17 @@
 
 <h1 align="center" style="margin-top: 35px">* === * Experiences * === *</h1>
 
+<p align="center">
 
-<p align="left">
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">Javascript</p>
-</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"width="70" />
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">HTML</p>
-</div>
-
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">CSS</p>
-</div>
-
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">React</p>
-</div>
 
 </p>
