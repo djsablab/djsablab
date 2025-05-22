@@ -1,33 +1,38 @@
-<h1 align="center">* === * DJ SABLAB * === *</h1>
-<h3 align="center">
-"Front-end weirdo with a penchant for design and a knack for coding."
-</h3>
+# DJ SABLAB
 
-<h1 align="center" style="margin-top: 35px">* === * Experiences * === *</h1>
+## Front-end Developer | Designer | Coder
 
-<div align="center" style="display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;">
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">Javascript</p>
-</div>
+---
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">HTML</p>
-</div>
+## Table of Contents
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">CSS</p>
-</div>
+- [About](#about)
+- [Technologies & Skills](#technologies--skills)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-alt="" width="70" />
-<p style="margin: 0px; font-size: 50px">React</p>
-</div>
+---
 
-</div>
+## About
+
+Welcome to the **djsablab** repository. This project showcases my experience and skills in front-end development, design, and coding. Here you will find examples of my work, experiments, and learning projects.
+
+---
+
+## Technologies & Skills
+
+| JavaScript | HTML5 | CSS3 | React |
+|:----------:|:-----:|:----:|:-----:|
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) |
+
+---
+
+## Getting Started
+
+To explore this repository:
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/djsablab/djsablab.git
