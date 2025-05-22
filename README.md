@@ -1,4 +1,5 @@
 <h1 align="center">* === * DJ SABLAB * === *</h1>
+
 <h3 align="center">
 "Front-end weirdo with a penchant for design and a knack for coding."
 </h3>
@@ -12,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"width="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"width="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"width="70" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"width="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"width="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"width="70" />
 </p>
