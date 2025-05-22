@@ -1,3 +1,5 @@
+<h1 align="center"># === # DJ SABLAB # === #</h1>
+<p align="center">"Front-end weirdo with a penchant for design and a knack for coding."</p>
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-<h1 align="center">Hi 👋, I'm X</h1>
+#
+<a><a href="https://github.com/djsablab">Mine Github</a>
