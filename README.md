@@ -1,9 +1,9 @@
-<h1 align="center">* === * DJ SABLAB * === *</h1>
+<h1 align="center">\* === \* DJ SABLAB \* === \*</h1>
 <h3 align="center">
     "Front-end weirdo with a penchant for design and a knack for coding."
 </h3>
 
-<h1 align="center" style="margin-top: 35px">* === * Experiences * === *</h1>
+<h1 align="center" style="margin-top: 35px">\* === \* Experiences \* === \*</h1>
 
 <div align="center" style="
     display: flex;
