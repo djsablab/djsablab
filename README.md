@@ -5,7 +5,8 @@
 
 <h1 align="center" style="margin-top: 35px">* === * Experiences * === *</h1>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
+<p align="left">
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; border: 3px solid black; border-radius: 10px; padding: 10px;margin: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 alt="" width="70" />
@@ -30,4 +31,4 @@ alt="" width="70" />
 <p style="margin: 0px; font-size: 50px">React</p>
 </div>
 
-</div>
+</p>
