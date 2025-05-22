@@ -14,5 +14,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"width="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"width="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"width="70" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"width="70" />
 </p>
