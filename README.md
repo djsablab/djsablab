@@ -10,10 +10,6 @@
 
 ###
 
-<h2 align="left">🧪 Technologies I loved a lot to use:</h2>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="50" alt="android logo"  />
   <img width="8" />
