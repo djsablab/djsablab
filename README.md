@@ -44,12 +44,6 @@
 
 <h2 align="left">✨ Get In touch and follow me:</h2>
 
-###
-
-<img align="left" height="75" src="https://avatars.githubusercontent.com/u/116452659?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
